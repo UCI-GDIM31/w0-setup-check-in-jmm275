@@ -7,7 +7,7 @@ This is the first GDIM31 assignment! This is not a test - just a way to make sur
 
 1. Tell me a little bit about yourself and your interest in games! Be sure to include your preferred name and pronouns, and talk a little bit about what games you like to play, why you’re taking the class, any prior experience you have with game development, and what kind of games you hope to build.
 
-My name is Jenica and my pronouns are she/hers. Some of the games that I have been playing these days include Life is Strange, Animal Crossing, Valorant, and Genshin Impact. I am taking this class because I am interested in learning about the creative process behind designing and programming games. I do not have much experience in developing games besides writing simple lines of code for elements of a game such as the point counter system in my previous computer science classes. I hope to be able to build some RPG and story mode games.
+My name is Jenica and my pronouns are she/hers. Some of the games that I have been playing these days include Life is Strange, Animal Crossing, Valorant, and Genshin Impact. I am taking this class because I am interested in learning about the creative process behind designing and programming games. I do not have much experience in developing games besides writing simple lines of code for elements of a game such as the point counting system in my previous computer science classes. I hope to be able to build some RPG and story mode games!
 
 2. Which of the following best describes your major? Please specify if not GDIM.  
 
@@ -19,7 +19,7 @@ My name is Jenica and my pronouns are she/hers. Some of the games that I have be
 
 3. What are you hoping to get out of this class?
 
-I am hoping to gain knowledge regarding important terminology related to game programming and overall learning the different stages that come to developing immersive gameplay for players.
+I am hoping to gain knowledge regarding important terminology related to game programming and overall learning the different stages that come to developing immersive gameplay for players alongside a team.
 
 4. What, if anything, are you nervous about for this class?
 
@@ -32,13 +32,13 @@ The next questions ask about what (if any) prior experience you have. This class
 ### Development
 
 1. Programming (any languages/ frameworks)
-JavaScript 
+Javascript 
 
 2. Game development (any engine)
-N/A
+0
 
 3. Unity
-N/A
+0
 
 ### Programming & Game Development Concepts
 
